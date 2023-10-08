@@ -1,0 +1,81 @@
+.container{
+  width: 80%;
+  margin-left: 121px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    margin-top: 21px;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  p{
+    margin: 2px 170px;
+  }
+
+  .main{
+    margin: 2px 21px;
+  }
+
+  label{
+    padding: 29px;
+  }
+
+
+  .main iframe{
+    padding: 18px;
+  }
+
+  .footer{
+    text-align: center;
+    margin-top: 41px;
+  }
+
+
+  #img1{
+    right: 227px;
+    top: 501px;
+    position: absolute;
+  }
+
+  #img2{
+    right: 227px;
+    top: 981px;
+    position: absolute;
+  }
+
+  #img3{
+    right: 227px;
+    top: 1465px;
+    position: absolute;
+  }
+
+  #img4{
+    right: 227px;
+    position: absolute;
+    bottom: -1536px;
+  } 
+  
+  #img5{
+    right: 227px;
+    position: absolute;
+    bottom: -2014px;
+  }  
+
+  #img6{
+    right: 227px;
+    position: absolute;
+    bottom: -2478px;
+  } 
+
+  audio{
+    margin-left: 46px;
+    margin-top: 29px;
+  }
+
